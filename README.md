@@ -46,10 +46,6 @@ In essence, this project isn't just about predicting stock prices; it's about ca
 
 For those intrigued by the marriage of technology and finance, for those who seek a deeper understanding of stock market prediction, this project opens the door. To embark on this journey of exploration and learning, dive into our GitHub repository and witness the fusion of advanced methodologies in action.
 
-
-
-==================
-
 # Room for Improvement: Enhancing Accuracy in Stock Price Prediction
 
 While our project has made significant strides in predicting Tesla's stock prices, it's important to candidly address the challenges we've encountered. Our achieved maximum accuracy of 57.80% underscores the inherent complexity of stock price prediction. In this section, we delve into the factors contributing to this level of accuracy and propose strategies for enhancing it.
